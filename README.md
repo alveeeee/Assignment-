@@ -1,19 +1,34 @@
-Name: Md Mubinul Islam
+# Lab Assignment 2
 
-ID: 2215151041
+**Name:** Md Mubinul Islam
+**ID:** 2215151041 
+**University:** University of Information Technology and Sciences  
+**Course:** Simulation and Modeling Lab  
+**Assignment:** Lab Assignment 2  
+**Due Date:** 19 February 2025  
 
-Sec: 7(A2)
+---
 
-Uni: UITS
+## Tasks Completed  
+- Generated a 3×3 matrix of random integers (1-50) without a fixed seed.  
+- Generated a 3×3 matrix of random integers (1-50) using `np.random.seed(10)` for reproducibility.  
+- Explained the difference between setting a seed and not setting a seed.  
 
-Course: Simulation and Modeling Lab
+---
 
-Course Code: CSE 413
+## Concepts Covered  
+- NumPy for generating random matrices and setting a fixed seed.  
+- Understanding randomness and reproducibility in simulations.  
+- Applications of random number generation in real-world scenarios.  
 
-Concept Covered: Matrix Functions, Matrix Operations, Line Graph, Bar plot, Scatter Plot, Heatmap, Matrix Element Barplot, Uniform Distribution with Random Numbers
+---
 
-Assignment:
+## What I Learned  
+- How to generate and manipulate random matrices using NumPy.  
+- The importance of setting a seed for reproducibility in simulations.  
+- How randomness affects data generation and why controlled randomness is useful.  
 
-1.Generate two vectors with 15 random floats each, plot them on the same graph, label the axes, and add a title.
+---
 
-2.Create a 4x4 matrix with random values, visualize it as a heatmap, and label the rows and columns. 3.Generate two 4x4 matrices, perform addition, subtraction, and multiplication, visualize the results using bar plots, and discuss the effects.
+## Submission  
+The `.ipynb` file has been uploaded to the repository.  
