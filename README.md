@@ -1,10 +1,15 @@
 # Lab Assignment 2
 
 **Name:** Md Mubinul Islam
+
 **ID:** 2215151041 
+
 **University:** University of Information Technology and Sciences  
+
 **Course:** Simulation and Modeling Lab  
+
 **Assignment:** Lab Assignment 2  
+
 **Due Date:** 19 February 2025  
 
 ---
