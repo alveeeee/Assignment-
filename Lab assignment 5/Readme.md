@@ -1,6 +1,6 @@
 Lab Assignment 5
-Name: Kayes Mahmood
-ID: 2215151030
+Name: Md Mubinul Islam
+ID: 2215151041
 University: University of Information Technology and Sciences
 Course: Simulation and Modeling Lab
 Assignment: Lab Assignment 5
