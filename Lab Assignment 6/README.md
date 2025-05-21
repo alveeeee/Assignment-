@@ -1,4 +1,4 @@
-Lab Assignment 6 – Monte Carlo Simulation & Queue Modeling
+# Lab Assignment 4 – Monte Carlo Simulation & Queue Modeling
 
 Name: Md Mubinul Islam
 
@@ -13,7 +13,7 @@ Assignment: Lab Assignment 6
 Due Date: 21 February 2025
 
 
-Tasks Completed
+# Tasks Completed
 
 Simulated 60 weeks of inventory ordering using Monte Carlo simulation based on historical inventory probabilities.
 
@@ -51,7 +51,7 @@ np.random.exponential() for arrival/service times
 
 Simulation-driven decision making for cost efficiency and service optimization.
 
-What I Learned
+# What I Learned
 
 How to model and simulate inventory restocking decisions using random distributions.
 
